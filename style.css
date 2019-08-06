@@ -1,0 +1,43 @@
+.logofundacion{
+  width: 10vw;
+}
+
+body{
+  background-color: lightgrey;
+
+
+}
+
+.background-color{
+
+  background-color: #028ccc
+}
+
+.jumbotron{
+background-image: url(img/imagen4.jpg);
+background-size: cover;
+height: 390px;
+}
+
+h1{
+font-family: 'Anton', sans-serif;
+text-align: center;
+}
+
+.estilo{
+
+background-color: #028ccc
+}
+
+.modificar{
+  height: 200px;
+}
+
+.fb{
+width: 200px
+  height: 200px;
+}
+
+#carouselExampleControls{
+  height: 500px;
+}
